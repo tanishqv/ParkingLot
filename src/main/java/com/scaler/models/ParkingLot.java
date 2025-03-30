@@ -1,6 +1,8 @@
 package com.scaler.models;
 
-import java.util.Date;
+import com.scaler.strategies.SpotAllocationStrategy;
+
+import java.util.List;
 
 public class ParkingLot extends BaseModel {
 
